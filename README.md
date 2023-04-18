@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fslongjin&layout=compact&hide_border=true&hide_title=true)\
 &nbsp;
 - 🔭 I’m currently working on (https://github.com/fslongjin/dragonOS)
-- 📫 How to reach me: longjin@RinGoTek.cn
+- 📫 How to reach me: longjin@DragonOS.org
 - 😄 Pronouns: login
