@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 &nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fslongjin&layout=compact&hide_border=true&hide_title=true)\
 &nbsp;
-- 🔭 I’m currently working on (https://github.com/fslongjin/dragonOS)
+- 🔭 I’m currently working on (https://github.com/DragonOS-Community/dragonOS)
 - 📫 How to reach me: longjin@DragonOS.org
-- 😄 Pronouns: login
+- 😄 Pronouns: LoGin
